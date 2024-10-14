@@ -1,1 +1,1 @@
-type passwd.txt
+
